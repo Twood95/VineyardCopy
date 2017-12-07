@@ -8,6 +8,7 @@ description: >-
   Experience expertly hand-crafted wines. We strive to bring our love of wine
   into the homes of our fellow Kansans. We take pride in our product and
   dedicate ourselves to provide exceptional quality to our patrons.
+full_image: /img/products/products-full-width.jpg
 intro:
   blurbs:
     - image: /img/winebottle.png
@@ -18,7 +19,7 @@ intro:
         the Catawba grape. Best served well chilled. 
 
         Pairs well with fresh fruit, citrus shrimp, desserts and quiche.
-    - image: /img/winebottle.png
+    - image: /img/blue.png
       text: >-
         Premium Auslese is a German style wine that was first perfected by the
         founder of Smoky Hill, whose wife’s roots can be traced back to Treir,
@@ -28,14 +29,14 @@ intro:
         Produced from Kansas grown grapes, this late harvest semi-sweet white
         wine can be enjoyed year round with your favorite grilled pork, chicken
         or barbeque dishes.  Best served well chilled.​
-    - image: /img/winebottle.png
+    - image: /img/red.png
       text: >-
         Christmas Wine is a seasonal semi-sweet white wine that is crafted from
         a proprietary blend of grapes in a crisp, fruity style.  Our Christmas
         Wine is vented to honor the traditions of the season.  Meant to be
         enjoyed by anyone ages 21-100. Pairs well with any holiday meal and
         makes a great gift! 
-    - image: /img/winebottle.png
+    - image: /img/yellow.png
       text: >-
         Vidal Blanc is crafted particularly as a great transition wine. The
         natural fruit flavors appeal to those who enjoy sweet wines, but is dry
@@ -112,16 +113,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -150,6 +141,16 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Philipp Trommler
+    quote: >-
+      Kaldi is the place to go if you want the best quality coffee. I love their
+      stance on empowering farmers and transparency.
 ---
+
 
 
