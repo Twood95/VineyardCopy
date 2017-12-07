@@ -98,12 +98,10 @@ intro:
     into the homes of our fellow Kansans. We take pride in our product and
     dedicate ourselves to provide exceptional quality to our patrons.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Buy Our Wine Online
+  description: >-
+    To purchase our wine online visit [our
+    store.](https://vinoshipper.com/wine/winery/358)
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -151,6 +149,7 @@ testimonials:
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 ---
+
 
 
 
