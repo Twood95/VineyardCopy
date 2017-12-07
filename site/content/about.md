@@ -2,7 +2,7 @@
 title: About Us
 type: about
 page: /about.html
-image: /img/products/jumbotron.jpg
+image: /img/d7853ebc97a83b3b29691073d7cd7fac.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -11,32 +11,37 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations/coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations/tutorials.svg
+    - image: /img/32438.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    - image: /img/32438.svg
+      text: >
+        We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/32438.svg
+      text: >
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
+    - image: /img/32438.svg
+      text: >-
+        Love a great cup of coffee, but never knew how to make one? Bought a
+        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our baristas
+        to learn anything you want to know about coffee roasting and brewing.
+        Email us or call the store for details.
+  heading: Meet Our Staff
+  description: |-
+
+    efgdfgsdfgsdfgsdfgsdfgsfg
 main:
   heading: Great coffee with no compromises
   description: >
@@ -46,22 +51,22 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products/products-grid3.jpg
+    image: /img/d31d4554a1cda10d3fb65333326d4f3b.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
+    image: /img/9fe02603f3971b56f061d1ae0312f6cc.jpg
   image3:
     alt: Coffee beans
-    image: /img/products/products-grid1.jpg
+    image: /img/68d9d81a8bf52e7c16f14d21cfb832af.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Alice McGaughey-Nondorf
+    quote: So nice to have local products! Especially Love your Christmas Wine!!
+  - author: Sharon Harrell
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Both owners were very informative and excited about their new winery. They
+      were over-to-top-helpful about wine questions and their history. We really
+      did enjoy the tasting experience and left knowing quite a lot about each
+      of their wines.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -92,4 +97,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
