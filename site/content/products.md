@@ -16,14 +16,14 @@ intro:
         Sweet Lady is one of the top selling sweet white wines expertly and
         locally crafted at the new Smoky Hill Vineyards & Winery.  Known for its
         light body, slight floral nose and the bold flavored characteristics of
-        the Catawba grape. Best served well chilled. 
+        the Catawba grape. Best served well chilled.
 
         Pairs well with fresh fruit, citrus shrimp, desserts and quiche.
     - image: /img/blue.png
       text: >-
         Premium Auslese is a German style wine that was first perfected by the
         founder of Smoky Hill, whose wife’s roots can be traced back to Treir,
-        Germany.  “Premium Auslese” means late harvest, pronounced “owslaysa”.  
+        Germany.  “Premium Auslese” means late harvest, pronounced “owslaysa”.
 
 
         Produced from Kansas grown grapes, this late harvest semi-sweet white
@@ -35,7 +35,7 @@ intro:
         a proprietary blend of grapes in a crisp, fruity style.  Our Christmas
         Wine is vented to honor the traditions of the season.  Meant to be
         enjoyed by anyone ages 21-100. Pairs well with any holiday meal and
-        makes a great gift! 
+        makes a great gift!
     - image: /img/yellow.png
       text: >-
         Vidal Blanc is crafted particularly as a great transition wine. The
@@ -52,22 +52,22 @@ intro:
     - image: /img/winebottle.png
       text: >-
         Pink Catawba is a semi-sweet blush wine with a light floral and citrus
-        nose. Bursts with bold grapefruit and melon flavors. 
+        nose. Bursts with bold grapefruit and melon flavors.
 
         Goes well with barbeque, grilled pork and Cajun dishes.  Best served
         well chilled.
     - image: /img/winebottle.png
       text: >-
-        River Valley Red is a rich, red sweet wine, native concord at its best. 
+        River Valley Red is a rich, red sweet wine, native concord at its best.
         Medium bodied with a bright, ruby red color, it has the unmistakable
         nose of concord grapes.  Produced in the river valley of central Kansas,
         enjoy this all-American wine chilled with all-American fare.  Pairs well
-        with hamburgers, brats, light cheese and 
+        with hamburgers, brats, light cheese and
 
-        fresh fruits. 
+        fresh fruits.
     - image: /img/winebottle.png
       text: >-
-        Czech Style Red is crafted from a blend of several grapes. 
+        Czech Style Red is crafted from a blend of several grapes.
         “Czechoslovakian Style” means it is a sweet wine to yield an abundance
         of flavor.  The lightbodied and sweet taste make this wine perfect for
         pairing with hamburgers straight off the grill!  Served at room
@@ -77,7 +77,7 @@ intro:
         Red Raspberry is an impeccable red dessert wine crafted by the new
         family of artisans at Smoky Hill Vineyards & Winery – among the first
         wines created by the founder in the mid 90’s.  This light bodied ruby
-        colored wine is sweet, but loaded with the natural zing of raspberries. 
+        colored wine is sweet, but loaded with the natural zing of raspberries.
         Best served well chilled, this versatile wine can be enjoyed by the
         glass or for cooking special sauces.
     - image: /img/winebottle.png
@@ -100,8 +100,7 @@ intro:
 main:
   heading: Buy Our Wine Online
   description: >-
-    To purchase our wine online visit [our
-    store.](https://vinoshipper.com/wine/winery/358)
+    We have a wide variety of wines available on line, please click the bottom below.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -149,7 +148,3 @@ testimonials:
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 ---
-
-
-
-
