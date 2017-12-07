@@ -1,12 +1,14 @@
 ---
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
-full_image: /img/products/products-full-width.jpg
-heading: What we offer
+title: About Us
+type: about
 page: /about.html
+image: /img/d7853ebc97a83b3b29691073d7cd7fac.jpg
+heading: A Truly Local Story
+description: >-
+  Type corny store here adfasdf asdType corny store here adfasdf asdType corny
+  store here adfasdf asdType corny store here adfasdf asdType story here adfasdf
+  asdType corny store here adfasdf asdType corny store here adfasdf asd
+full_image: /img/products/products-full-width.jpg
 intro:
   blurbs:
     - image: /img/32438.svg
@@ -36,16 +38,32 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
+  heading: Meet Our Staff
   description: |-
 
     efgdfgsdfgsdfgsdfgsdfgsfg
-  heading: Meet Our Staff
+main:
+  heading: Great coffee with no compromises
+  description: >
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
+  image1:
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/d31d4554a1cda10d3fb65333326d4f3b.png
+  image2:
+    alt: A green cup of a coffee on a wooden table
+    image: /img/9fe02603f3971b56f061d1ae0312f6cc.jpg
+  image3:
+    alt: Coffee beans
+    image: /img/68d9d81a8bf52e7c16f14d21cfb832af.jpg
 pricing:
+  heading: Monthly subscriptions
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
-  heading: Monthly subscriptions
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -68,25 +86,6 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
-title: About Us
-type: about
-image: /img/d7853ebc97a83b3b29691073d7cd7fac.jpg
-main:
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  heading: Great coffee with no compromises
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/d31d4554a1cda10d3fb65333326d4f3b.png
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/9fe02603f3971b56f061d1ae0312f6cc.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/68d9d81a8bf52e7c16f14d21cfb832af.jpg
 testimonials:
   - author: Alice McGaughey-Nondorf
     quote: So nice to have local products! Especially Love your Christmas Wine!!
@@ -97,3 +96,4 @@ testimonials:
       did enjoy the tasting experience and left knowing quite a lot about each
       of their wines.
 ---
+
