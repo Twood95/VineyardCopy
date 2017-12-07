@@ -5,9 +5,6 @@ description: >-
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 full_image: /img/products/products-full-width.jpg
-header:
-  description: asdfasdfasdf
-  heading: asdfasdf
 heading: What we offer
 page: /about.html
 intro:
@@ -100,6 +97,3 @@ testimonials:
       did enjoy the tasting experience and left knowing quite a lot about each
       of their wines.
 ---
-
-
-

@@ -3,6 +3,15 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
+
+<br>
+<div class="mw7 center">
+  <div class="mw6 ph3 mb3">
+    <h3 class="f3 b lh-title mb2">{{ .Params.heading }}</h3>
+    <p>{{ .Params.description }}</p>
+  </div>
+</div>
+
 {{ partial "4-up" .Params.intro }}
 
 
