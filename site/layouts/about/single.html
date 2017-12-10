@@ -7,12 +7,12 @@
 <br>
 <div class="mw7 center">
   <div class="mw6 ph3 mb3">
-    <h3 class="f2 b lh-title mb2">{{ .Params.heading }}</h3>
+    <h3 class="f2 b lh-title mb2" style="margin-left:auto">{{ .Params.heading }}</h3>
     <p>{{ .Params.description }}</p>
   </div>
 </div>
 
-{{ partial "4-up" .Params.intro }}
+{{ partial "staff" .Params.intro }}
 
 
 {{ with .Params.main }}
