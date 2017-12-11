@@ -12,72 +12,56 @@ export default class PostPreview extends React.Component {
     }
 
     return <div>
-      <div className="pv5 pv6-l ph3 bg-center cover" style={{
-        backgroundImage: image && `url(${image})`
-      }}>
-        <div className="mw7 center ph3">
-          <div className="db mb3">
-            <div className="mw7 relative bg-fix-primary mb3">
-              <h1 className="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-                { entry.getIn(["data", "title"]) }
-              </h1>
-            </div>
-            <div className="mw7 relative bg-fix-primary">
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div className="bg-off-white pv4">
-        <div className="ph3 mw7 center">
-          <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "heading"])}</h2>
-          <p className="mb4 mw6">{entry.getIn(["data", "description"])}</p>
-      </div>
-      </div>
-
-      <div className="bg-off-white pv4">
-        <div className="ph3 mw7 center">
-          <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "intro", "heading"])}</h2>
-          <p className="mb4 mw6">{entry.getIn(["data", "intro", "description"])}</p>
-
-          <div className="flex-ns flex-wrap mhn2-ns mb3">
-            {(entry.getIn(["data","intro", "blurbs"]) || []).map((blurb, index) => <div className="ph2-ns w-50-ns mb4" key={index}>
-            <h3 className="f3">{blurb.get("name")}</h3>
-            <h4 className="f4">{blurb.get("title")}</h4>
-              <img src={blurb.get("image") && getAsset(blurb.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
-              <p>{blurb.get("text")}</p>
-            </div>)}
-          </div>
-        </div>
-      </div>
 
 
 
-      <div className="mw7 center ph3 pv4">
+        <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "heading"])}</h2>
 
-        <div className="flex flex-wrap mhn1">
-          <div className="w-100 w-50-ns ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image1", "image"]))}/>
-          </div>
 
-          <div className="w-100 w-50-ns ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image2", "image"]))}/>
-          </div>
 
-          <div className="w-100 ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image3", "image"]))}/>
-          </div>
-        </div>
-      </div>
-
-      <div className="pb4">
-        {(entry.getIn(['data', 'testimonials']) || []).map((testimonial, index) => <div className="center mb3 ph3" key={index}>
-        	<blockquote className="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
-        		<p className="f4 mb0">“{testimonial.get('quote')}”</p>
-        		<cite className="tr db grey-3">{testimonial.get('author')}</cite>
-        	</blockquote>
+      <div className="">
+        {(entry.getIn(["data","intro", "blurbs"]) || []).map((blurb, index) => <div className="" key={index}>
+        <h3 className="f3">{blurb.get("header")}</h3>
+          <p>{blurb.get("text")}</p>
         </div>)}
       </div>
+
+
+
+      <div className="mb4">
+        <h4 className="f3 b lh-title mb3 tc">Drop us a line below</h4>
+
+        <form action="">
+          <div className="flex-l mhn1-l">
+
+            <div className="ph1-l w-50-l">
+              <fieldset>
+                <input type="text" id="name" placeholder="Name" className="w-100 mb2"/>
+                <label for="name">Name</label>
+              </fieldset>
+            </div>
+
+            <div className="ph1-l w-50-l">
+              <fieldset>
+                <input type="email" id="email" placeholder="Email" className="w-100 mb2"/>
+                <label for="email">Email</label>
+              </fieldset>
+            </div>
+          </div>
+
+
+          <fieldset>
+            <textarea name="name" placeholder="Your message" rows="8" cols="80" id="message" className="w-100"></textarea>
+            <label for="message">Your message</label>
+          </fieldset>
+
+          <div className="tc">
+            <button type="submit" className="btn w-100 w-auto-ns raise">Submit</button>
+          </div>
+        </form>
+      </div>
+
+
 
 
     </div>;
