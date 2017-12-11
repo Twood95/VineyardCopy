@@ -2,16 +2,16 @@
 
 {{ partial "nav" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/home/jumbotron.jpg" "title" "Great coffee with a conscience" "subtitle" "Support sustainable farming while enjoying a cup") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/wineselection.jpg" "title" "Experience Expertly Hand-crafted Wines" "subtitle" "Kansas Wine Since 1991") }}
 
-{{ partial "short-text" (dict "heading" "Why Kaldi?" "text" "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities.")}}
+{{ partial "short-text" (dict "heading" "Kansas Wine" "text" "Smoky Hill Vineyards & Winery have proudly produced world-class wines indicative of our region of central Kansas since 1991.")}}
 
 {{ range where .Data.Pages "Type" "about" }}
-{{ partial "2-up" (dict "heading" "What we offer" "description" "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone." "svg1" "img/illustrations/coffee.svg" "text1" "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability." "svg2" "/img/illustrations/coffee-gear.svg" "text2" "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop." "buttonText" "See all products" "buttonLink" "/products"  ) }}
+{{ partial "2-up" (dict "heading" "Our Selection" "description" "Here at Smoky Hill Vineyards & Winery we offer a wide selection of award winning, locally made wines, uniquely crafted to please every palette." "svg1" "/img/winebottle.png" "text1" "independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability." "svg2" "/img/winebottle.png" "text2" "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop." "buttonText" "See all products" "buttonLink" "/products"  ) }}
 {{end}}
 
 
-{{ partial "text-and-image" (dict "heading" "Our values" "text" "Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature." "buttonText" "Read more" "buttonLink" "/about") }}
+{{ partial "text-and-image" (dict "heading" "Our Story" "text" "Smoky Hill Vineyards & Winery originated in 1991 when founders Steve Jennings and Kay Bloom hand-planted their first plants on a single acre in Salina, KS. Today, we are the largest grape producing farm winery in the state of Kansas." "buttonText" "Read more" "buttonLink" "/about") }}
 
 {{ partial "blog" . }}
 
