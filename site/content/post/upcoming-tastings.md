@@ -2,7 +2,7 @@
 title: Upcoming Tastings
 date: 2017-12-12T16:43:52.362Z
 description: Coming to an area near you.
-image: null
+image: /img/tasting room.jpg
 ---
 We circle around the state and soon we will be in your town. Be sure to come out, have fun. and taste all of our signature wines.
 
@@ -27,3 +27,4 @@ February 10 - No location set.
 February 17 - No location set.
 
 February 24 - No location set.
+
