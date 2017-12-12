@@ -100,7 +100,8 @@ intro:
 main:
   heading: Buy Our Wine Online
   description: >-
-    We have a wide variety of wines available on line, please click the bottom below.
+    We have a wide variety of wines available on line, please click the button
+    to go to our online store.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -148,3 +149,4 @@ testimonials:
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 ---
+
