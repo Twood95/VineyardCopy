@@ -5,51 +5,56 @@ page: /about.html
 image: /img/about/aboutJumbo.jpg
 heading: A Truly Local Story
 description: >-
-  Type corny store here adfasdf asdType corny store here adfasdf asdType corny
-  store here adfasdf asdType corny store here adfasdf asdType story here adfasdf
-  asdType corny store here adfasdf asdType corny store here adfasdf asd
+  Smoky Hill Vineyards & Winery originated in 1991 when the founders, Steve
+  Jennings and Kay Bloom, hand-planted the first plants on one acre in Salina,
+  KS. In 2009, the family-owned business became the largest grape producing farm
+  winery in the state of Kansas. 
 full_image: /img/products/products-full-width.jpg
 intro:
   blurbs:
     - image: /img/32438.svg
-      name: Bacon Ipsum
-      title: Job Title
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/32438.svg
-      name: Bacon Ipsum
-      title: Job Title
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/32438.svg
-      name: Bacon Ipsum
-      title: Job Title
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/32438.svg
-      name: Bacon Ipsum
-      title: Job Title
+      name: Ken Mayfield
       text: >-
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Lorem ipsum dolor sit amet, lectus id condimentum tellus ut, integer
+        mollis, elementum mi mus. Sollicitudin id eu sollicitudin posuere arcu
+        dui, nibh sed integer libero imperdiet amet, commodo convallis lorem in
+        hendrerit eget, nec felis quis. Nec odio elit netus purus, lacinia
+        bibendum pharetra, suspendisse fermentum, sapien quisque mauris ac,
+        pretium urna amet dolor mi.
+      title: Craftsman
+    - image: /img/32438.svg
+      name: Bacon Ipsum
+      text: >
+        Lorem ipsum dolor sit amet, lectus id condimentum tellus ut, integer
+        mollis, elementum mi mus. Sollicitudin id eu sollicitudin posuere arcu
+        dui, nibh sed integer libero imperdiet amet, commodo convallis lorem in
+        hendrerit eget, nec felis quis. Nec odio elit netus purus, lacinia
+        bibendum pharetra, suspendisse fermentum, sapien quisque mauris ac,
+        pretium urna amet dolor mi.
+      title: Job Title
+    - image: /img/32438.svg
+      name: Bacon Ipsum
+      text: >-
+        Lorem ipsum dolor sit amet, lectus id condimentum tellus ut, integer
+        mollis, elementum mi mus. Sollicitudin id eu sollicitudin posuere arcu
+        dui, nibh sed integer libero imperdiet amet, commodo convallis lorem in
+        hendrerit eget, nec felis quis. Nec odio elit netus purus, lacinia
+        bibendum pharetra, suspendisse fermentum, sapien quisque mauris ac,
+        pretium urna amet dolor mi.
+      title: Job Title
+    - image: /img/32438.svg
+      name: Bacon Ipsum
+      text: >-
+        Lorem ipsum dolor sit amet, lectus id condimentum tellus ut, integer
+        mollis, elementum mi mus. Sollicitudin id eu sollicitudin posuere arcu
+        dui, nibh sed integer libero imperdiet amet, commodo convallis lorem in
+        hendrerit eget, nec felis quis. Nec odio elit netus purus, lacinia
+        bibendum pharetra, suspendisse fermentum, sapien quisque mauris ac,
+        pretium urna amet dolor mi.
+      title: Job Title
   heading: Meet Our Staff
-  description: |-
+  description: |+
 
-    efgdfgsdfgsdfgsdfgsdfgsfg
 main:
   heading: Great coffee with no compromises
   description: >
@@ -104,3 +109,4 @@ testimonials:
       did enjoy the tasting experience and left knowing quite a lot about each
       of their wines.
 ---
+
